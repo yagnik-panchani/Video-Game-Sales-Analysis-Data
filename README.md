@@ -198,20 +198,4 @@ Some of the major questions explored in this project include:
 
 ---
 
-## 📁 Project Structure
 
-```text
-video-game-sales-analysis/
-│
-├── data/
-│   └── vgsales.csv
-│
-├── notebooks/
-│   └── video_game_sales_analysis.ipynb
-│
-├── images/
-│   └── charts/
-│
-├── README.md
-│
-└── requirements.txt
